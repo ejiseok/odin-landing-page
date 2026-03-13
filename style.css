@@ -36,3 +36,41 @@ body {
   color: #F9FAF8;
   text-decoration: none;
 }
+
+.title-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 70px 15%;
+  background-color: #1F2937;
+}
+
+.text-button-container {
+  padding-right: 30px;
+}
+
+.main-text {
+  font-size: 48px;
+  font-weight: 900;
+  color: #F9FAF8;
+}
+
+.secondary-text {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.main-signup-button {
+  border: none;
+  border-radius: 10px;
+  background-color: #3882F6;
+  color: #F9FAF8;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 8px 30px;
+  margin-top: 10px;
+}
+
+.title-section img {
+  height: 300px;
+}
